@@ -1,4 +1,4 @@
-# MoviesDatabas
+# MoviesDatabase
 
 React Movie DB is fully responsive, interactive React application displaying some of the most popular Movies via  [ The Movie Database (TMDb)][1] **API**
 
